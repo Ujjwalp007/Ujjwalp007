@@ -52,11 +52,17 @@
 
 ###
 
-<img align="right" height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnJscmw1MzNlbm42MTk2YzJ4YjhpNm1veTBkcnQwcGFvaXpkeXlmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GzFB16xjLhrCgtGyOs/giphy.gif"  />
+<p align="left">🌟 Who Am I?<br><br>I'm a Computer Science junior at Drexel University, balancing a passion for solving complex problems with a love for exploring the outdoors.<br><br>🌄 Outside the Code:<br><br>When I'm not knee-deep in Python scripts, you'll find me:<br><br>🎧 Vibing to songs that set the mood just right.<br><br>📚 Immersing myself in non-fiction books that expand my horizons.<br><br>🌱 Currently Exploring:<br><br>. Leveraging AI and ML to solve real-world problems.<br><br>. Scaling up data infrastructure with cutting-edge tools.<br><br>Thanks for stopping by! Keep building, keep exploring, and let’s create something awesome together. 🌌 It's Lit 🔥🔥</p>
 
 ###
 
-<div align="left">
+<div align="center">
+  <img height="250" src="the-weeknd.gif" alt="The Weeknd Vibes" />
+</div>
+
+###
+
+<div align="center">
   <a href="https://www.instagram.com/ujjwalpatidar_017/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
@@ -64,9 +70,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<p align="left">🌟 Who Am I?<br><br>I'm a Computer Science junior at Drexel University, balancing a passion for solving complex problems with a love for exploring the outdoors.<br><br>🌄 Outside the Code:<br><br>When I'm not knee-deep in Python scripts, you'll find me:<br><br>🎧 Vibing to songs that set the mood just right.<br><br>📚 Immersing myself in non-fiction books that expand my horizons.<br><br>🌱 Currently Exploring:<br><br>. Leveraging AI and ML to solve real-world problems.<br><br>. Scaling up data infrastructure with cutting-edge tools.<br><br>Thanks for stopping by! Keep building, keep exploring, and let’s create something awesome together. 🌌 It's Lit 🔥🔥</p>
 
 ###
