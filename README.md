@@ -52,7 +52,7 @@
 
 ###
 
-<p align="left">🌟 Who Am I?<br><br>I'm a Computer Science junior at Drexel University, balancing a passion for solving complex problems with a love for exploring the outdoors.<br><br>🌄 Outside the Code:<br><br>When I'm not knee-deep in Python scripts, you'll find me:<br><br>🎧 Vibing to songs that set the mood just right.<br><br>📚 Immersing myself in non-fiction books that expand my horizons.<br><br>🌱 Currently Exploring:<br><br>. Leveraging AI and ML to solve real-world problems.<br><br>. Scaling up data infrastructure with cutting-edge tools.<br><br>Thanks for stopping by! Keep building, keep exploring, and let’s create something awesome together. 🌌 It's Lit 🔥🔥</p>
+<p align="left">🌟 Who Am I?<br><br>I'm a Computer Science junior at Drexel University, balancing a passion for solving complex problems with a love for exploring the outdoors.<br><br>🌄 Outside the Code:<br><br>When I'm not knee-deep in Python scripts, you'll find me:<br><br>🎧 Vibing to songs that set the mood just right.<br><br>📚 Immersing myself in non-fiction books that expand my horizons.<br><br>🌱 Currently Exploring:<br><br>. Leveraging AI and ML to solve real-world problems.<br><br>. Scaling up data infrastructure with cutting-edge tools.<br><br>Thanks for stopping by! Keep building, keep exploring, and let’s create something awesome together. 🌌</p>
 
 ###
 
