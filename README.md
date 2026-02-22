@@ -1,74 +1,67 @@
-<h2 align="left">Hi 👋! My name is Ujjwal Patidar & welcome to my little corner of the tech universe on GitHub! 🚀</h2>
+# 👨🏽‍💻 Ujjwal Patidar
 
-###
+Hi! I'm **Ujjwal** — a **Computer Science** senior at **Drexel University** who gets unreasonably excited about well-designed data systems. My work sits at the intersection of **data engineering**, **data science**, **cloud infrastructure**, and **applied AI**. I like building things that take messy, real-world data and turn it into something an engineer or analyst can actually trust.
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" alt="haskell logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
-</div>
+When I'm not working, I'm probably running, reading something non-fiction, or listening to the Weeknd :)
 
-###
+## 💼 Where I've Built Things
 
-<p align="left">🌟 Who Am I?<br><br>I'm a Computer Science junior at Drexel University, balancing a passion for solving complex problems with a love for exploring the outdoors.<br><br>🌄 Outside the Code:<br><br>When I'm not knee-deep in Python scripts, you'll find me:<br><br>🎧 Vibing to songs that set the mood just right.<br><br>📚 Immersing myself in non-fiction books that expand my horizons.<br><br>🌱 Currently Exploring:<br><br>. Leveraging AI and ML to solve real-world problems.<br><br>. Scaling up data infrastructure with cutting-edge tools.<br><br>Thanks for stopping by! Keep building, keep exploring, and let’s create something awesome together. 🌌</p>
+### **Penn Mutual Life Insurance** (*Software Engineer, Financial Core Services*)
+Scala + Spark pipelines powering actuarial reporting for 1M+ policies. AWS Step Functions, EMR Serverless, strict data quality — the kind of work where "close enough" doesn't fly.
 
-###
+### **Exelon Corporation** (*Data Scientist, Infrastructure & Safety Analytics*)
+Built GasGPT, an LLM-powered system for instant gas-standard regulatory answers. Flask + LangChain + Azure, containerized and deployed through CI/CD. Also wrangled Azure Tables and CosmosDB for chat history at scale.
 
-<div align="center">
-  <img height="250" src="the-weeknd.gif" alt="The Weeknd Vibes" />
-</div>
+### **Drexel VIP Research** (*Undergraduate Researcher*)
+Multi-drone target tracking with ROS 2 + TensorFlow. Dockerized ML pipelines. The kind of project where you learn that production and prototype are very different words.
 
-###
+## 🚀 Work I'm Proud Of
+
+### 🏎️ **Formula 1 Performance Analytics Engine**
+20+ years of F1 data, one lakehouse to rule them all. Architected on **Azure Databricks** with **PySpark** ingestion across **8+ raw sources**, curated **Delta Lake** models, and a full **bronze → silver → gold** ETL architecture — incremental loads, merge-based upserts, partitioned storage, time-travel. Powered interactive **Power BI** dashboards using **Spark SQL** window functions that reveal the performance trends you always suspected but couldn't prove.
+
+### 🏠 **Indomitable Families — IFAM Mobile App** *(Hack4Impact)*
+Cloud + data layer from scratch for a React Native app backed by Cornell Tech Incubator, serving families affected by incarceration. Python Lambda microservices, API Gateway, Aurora Postgres, real-time notifications, CI/CD pipelines. The kind of build where the infrastructure decisions you make today decide whether the platform can still stand a year from now.
+
+## 🛠️ Tech Stack
+
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=python,java,scala,cpp,c,ts,r,bash)](https://skillicons.dev)
+
+### Frameworks & Libraries
+[![My Skills](https://skillicons.dev/icons?i=flask,spring,tensorflow,pytorch,react)](https://skillicons.dev)
+
+**Also:** scikit-learn · Pandas · LangChain · PySpark
+
+### Cloud & DevOps
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,github)](https://skillicons.dev)
+
+**Also:** Databricks · CI/CD
+
+### Data & Databases
+[![My Skills](https://skillicons.dev/icons?i=cassandra,postgres,dynamodb)](https://skillicons.dev)
+
+**Also:** CosmosDB · Apache Spark · Hadoop · Data Warehousing · Data Modeling
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=postman,vscode,idea,latex,jupyter)](https://skillicons.dev)
+
+**Also:** Zeppelin · Power BI · Jira · Confluence
+
+## 🎓 Education & Involvements
+
+**Drexel University** — B.S. Computer Science · Minors in Data Science & Mathematics
+
+- 🤝 **Upsilon Pi Epsilon (UPE)** — Computer Science Honor Society
+- 🤝 **Hack4Impact** — Building tech for social good
+
 
 <div align="center">
-  <a href="https://www.instagram.com/ujjwalpatidar_017/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/ujjwalpatidar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-</div>
 
-###
+### Let's connect — always down to talk data or whatever you're building.
+
+[![LinkedIn](https://img.shields.io/badge/-ujjwalpatidar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwalpatidar/)
+[![GitHub](https://img.shields.io/badge/-Ujjwalp007-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ujjwalp007/)
+[![Email](https://img.shields.io/badge/-ujjwalpatidar01@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ujjwalpatidar01@gmail.com)
+
+</div>
