@@ -26,7 +26,7 @@ Cloud + data layer from scratch for a React Native app backed by Cornell Tech In
 ## 🛠️ Tech Stack
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=python,java,scala,cpp,c,ts,r,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,scala,ts,r,bash)](https://skillicons.dev)
 
 ### Frameworks & Libraries
 [![My Skills](https://skillicons.dev/icons?i=flask,spring,tensorflow,pytorch,react)](https://skillicons.dev)
