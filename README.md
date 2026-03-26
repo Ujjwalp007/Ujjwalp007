@@ -20,9 +20,6 @@ Multi-drone target tracking with ROS 2 + TensorFlow. Dockerized ML pipelines. Th
 ### 🏎️ **Formula 1 Performance Analytics Engine**
 20+ years of F1 data, one lakehouse to rule them all. Architected on **Azure Databricks** with **PySpark** ingestion across **8+ raw sources**, curated **Delta Lake** models, and a full **bronze → silver → gold** ETL architecture — incremental loads, merge-based upserts, partitioned storage, time-travel. Powered interactive **Power BI** dashboards using **Spark SQL** window functions that reveal the performance trends you always suspected but couldn't prove.
 
-### 🏠 **Indomitable Families — IFAM Mobile App** *(Hack4Impact)*
-Cloud + data layer from scratch for a React Native app backed by Cornell Tech Incubator, serving families affected by incarceration. Python Lambda microservices, API Gateway, Aurora Postgres, real-time notifications, CI/CD pipelines. The kind of build where the infrastructure decisions you make today decide whether the platform can still stand a year from now.
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -53,7 +50,6 @@ Cloud + data layer from scratch for a React Native app backed by Cornell Tech In
 **Drexel University** — B.S. Computer Science · Minors in Data Science & Mathematics
 
 - 🤝 **Upsilon Pi Epsilon (UPE)** — Computer Science Honor Society
-- 🤝 **Hack4Impact** — Building tech for social good
 
 
 <div align="center">
